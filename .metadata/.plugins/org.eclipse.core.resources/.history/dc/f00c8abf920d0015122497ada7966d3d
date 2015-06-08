@@ -1,0 +1,5 @@
+package com.bojie.messenger;
+
+public class MessageResource {
+
+}
